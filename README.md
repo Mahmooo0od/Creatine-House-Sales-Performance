@@ -31,33 +31,36 @@ The dashboard is meticulously designed with distinct, interactive sections, each
     * Visualizes **Revenue and GM% Overtime** (Quarterly and Annually), identifying periods of growth, decline, and profit margin trends.
     * Breaks down **Revenue by Country** (e.g., United States, Canada, France) and **Revenue by Category** (e.g., Protein, Carbs, Amino Acids), highlighting top-performing markets and product segments.
     * Shows **Revenue by Business Type** (e.g., Warehouse, Supplement, Gym), indicating key sales channels.
-    * ![Revenue Analysis Page](images/revenue_analysis.png) *(Replace `images/revenue_analysis.png` with your actual image path)*
-
+    * ![Alt Text]([https://drive.google.com/file/d/19P2hoNv-ijbmnLaPLT7nuYal4dTfBOxR/view?usp=drive_link](https://drive.google.com/file/d/1TQT6xFn4MQ585OA3xybhNG1JGMz_qo-A/view?usp=drive_link
+)
 * **Customer Analysis:**
     * Displays key metrics like **Total Customers, Average Order Value (AOV), Orders, and #Customers No Sold**.
     * Analyzes **Order Frequency** to understand purchasing habits.
     * Presents **Churn Analysis** over time, revealing customer retention trends.
     * Maps **#Customers per Region with Profits** and **#Customers without Orders per Region**, pinpointing profitable customer locations and areas requiring attention.
-    * ![Customer Analysis Page](images/customer_analysis.png) *(Replace `images/customer_analysis.png` with your actual image path)*
+    * ![Alt Text]([https://drive.google.com/file/d/19P2hoNv-ijbmnLaPLT7nuYal4dTfBOxR/view?usp=drive_link](https://drive.google.com/file/d/1TQT6xFn4MQ585OA3xybhNG1JGMz_qo-A/view?usp=drive_link
+)
 
 * **Returns Analysis:**
     * Quantifies **Returns Amount, #Orders have returns, #Customers (Returns), and Quantity (Returns)**.
     * Identifies **#Orders have returns by Subcategory** (e.g., Whey Protein, Egg Protein, Meal Replacement), spotlighting products with high return rates.
     * Analyzes **Average Order Returns per Month** and **#Orders Returns per Month** by region, revealing seasonal return patterns and geographical return hotspots.
-    * ![Returns Analysis Page](images/returns_analysis.png) *(Replace `images/returns_analysis.png` with your actual image path)*
-
+    * ![Alt Text](https://drive.google.com/file/d/19P2hoNv-ijbmnLaPLT7nuYal4dTfBOxR/view?usp=drive_link)
 * **Time Analysis:**
     * Provides a year-to-date (YTD) view of **Revenue, Profit, and Cost by Month**, enabling detailed trend analysis over time.
     * Compares **Revenue, Profit, and Cost** month-over-month to identify consistent patterns and outliers.
-    * ![Time Analysis Page](images/time_analysis.png) *(Replace `images/time_analysis.png` with your actual image path)*
+    * ![Alt Text]([https://drive.google.com/file/d/19P2hoNv-ijbmnLaPLT7nuYal4dTfBOxR/view?usp=drive_link](https://drive.google.com/file/d/1TQT6xFn4MQ585OA3xybhNG1JGMz_qo-A/view?usp=drive_link
+)
 
 * **Product Analysis:**
     * (This section would typically detail insights into best-selling products, lowest-performing items, product category profitability, and inventory turnover, allowing Creatine House to optimize their product offerings and stock levels. If you have a screenshot for this, add it here.)
-    * *(Example Placeholder: ![Product Analysis Page](images/product_analysis.png))*
+   ![Alt Text]([https://drive.google.com/file/d/19P2hoNv-ijbmnLaPLT7nuYal4dTfBOxR/view?usp=drive_link](https://drive.google.com/file/d/1TQT6xFn4MQ585OA3xybhNG1JGMz_qo-A/view?usp=drive_link
+)
 
 * **Location Analysis:**
     * (This section would typically visualize sales, profit, and customer distribution across different geographic regions or store locations, supporting targeted marketing and expansion strategies. If you have a screenshot for this, add it here.)
-    * *(Example Placeholder: ![Location Analysis Page](images/location_analysis.png))*
+    ![Alt Text]([https://drive.google.com/file/d/19P2hoNv-ijbmnLaPLT7nuYal4dTfBOxR/view?usp=drive_link](https://drive.google.com/file/d/1TQT6xFn4MQ585OA3xybhNG1JGMz_qo-A/view?usp=drive_link
+)
 
 ## 4. Data Sources
 
