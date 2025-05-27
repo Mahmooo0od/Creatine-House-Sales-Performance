@@ -31,8 +31,7 @@ The dashboard is meticulously designed with distinct, interactive sections, each
     * Visualizes **Revenue and GM% Overtime** (Quarterly and Annually), identifying periods of growth, decline, and profit margin trends.
     * Breaks down **Revenue by Country** (e.g., United States, Canada, France) and **Revenue by Category** (e.g., Protein, Carbs, Amino Acids), highlighting top-performing markets and product segments.
     * Shows **Revenue by Business Type** (e.g., Warehouse, Supplement, Gym), indicating key sales channels.
-    * ![GitHub Logo](https://drive.google.com/file/d/1TQT6xFn4MQ585OA3xybhNG1JGMz_qo-A/view?usp=drive_link)
-
+    * ![Alt Text](Revenue.png)
 )
 * **Customer Analysis:**
     * Displays key metrics like **Total Customers, Average Order Value (AOV), Orders, and #Customers No Sold**.
