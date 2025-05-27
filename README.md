@@ -94,7 +94,7 @@ This Sales Performance Dashboard provides Creatine House with an unparalleled vi
 
 ## 8. Live Demo
 
-Explore the interactive dashboard live on NovyPro: **[[Link to your NovyPro project page](https://www.novypro.com/profile_about/mahmoud-mamdouh?Popup=memberProject&Data=1748329372294x310340830017542340)]
+Explore the interactive dashboard live on NovyPro: **[[Novypro](https://www.novypro.com/profile_about/mahmoud-mamdouh?Popup=memberProject&Data=1748329372294x310340830017542340)]
 
 ## 10. Contact
 
