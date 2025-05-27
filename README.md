@@ -52,11 +52,11 @@ The dashboard is meticulously designed with distinct, interactive sections, each
     * ![Alt Text](Time.png)
 
 * **Product Analysis:**
-    * (This section would typically detail insights into best-selling products, lowest-performing items, product category profitability, and inventory turnover, allowing Creatine House to optimize their product offerings and stock levels. If you have a screenshot for this, add it here.)
+    * This section would typically detail insights into best-selling products, lowest-performing items, product category profitability, and inventory turnover, allowing Creatine House to optimize their product offerings and stock levels.
    ![Alt Text](Product.png)
 
 * **Location Analysis:**
-    * (This section would typically visualize sales, profit, and customer distribution across different geographic regions or store locations, supporting targeted marketing and expansion strategies. If you have a screenshot for this, add it here.)
+    * This section would typically visualize sales, profit, and customer distribution across different geographic regions or store locations, supporting targeted marketing and expansion strategies.
     ![Alt Text](Location.png)
 
 ## 4. Data Sources
@@ -100,5 +100,5 @@ Explore the interactive dashboard live on NovyPro: **[[Link to your NovyPro proj
 
 Feel free to connect with me for any questions, feedback, or collaborations on this project:
 
-* **[https://www.linkedin.com/in/mahmoud-mamdouh-324125220/]**
-* **[mamdouhmahmoud53@gmail.com]** (Optional)
+* **Linkedin:** **[https://www.linkedin.com/in/mahmoud-mamdouh-324125220/]**
+* **Email:** **[mamdouhmahmoud53@gmail.com]** (Optional)
