@@ -38,29 +38,26 @@ The dashboard is meticulously designed with distinct, interactive sections, each
     * Analyzes **Order Frequency** to understand purchasing habits.
     * Presents **Churn Analysis** over time, revealing customer retention trends.
     * Maps **#Customers per Region with Profits** and **#Customers without Orders per Region**, pinpointing profitable customer locations and areas requiring attention.
-    * ![Alt Text]([https://drive.google.com/file/d/19P2hoNv-ijbmnLaPLT7nuYal4dTfBOxR/view?usp=drive_link](https://drive.google.com/file/d/1TQT6xFn4MQ585OA3xybhNG1JGMz_qo-A/view?usp=drive_link
-)
+    * ![Alt Text](Customer.png) 
+
 
 * **Returns Analysis:**
     * Quantifies **Returns Amount, #Orders have returns, #Customers (Returns), and Quantity (Returns)**.
     * Identifies **#Orders have returns by Subcategory** (e.g., Whey Protein, Egg Protein, Meal Replacement), spotlighting products with high return rates.
     * Analyzes **Average Order Returns per Month** and **#Orders Returns per Month** by region, revealing seasonal return patterns and geographical return hotspots.
-    * ![Alt Text](https://drive.google.com/file/d/19P2hoNv-ijbmnLaPLT7nuYal4dTfBOxR/view?usp=drive_link)
+    * ![Alt Text](Returns.png)
 * **Time Analysis:**
     * Provides a year-to-date (YTD) view of **Revenue, Profit, and Cost by Month**, enabling detailed trend analysis over time.
     * Compares **Revenue, Profit, and Cost** month-over-month to identify consistent patterns and outliers.
-    * ![Alt Text]([https://drive.google.com/file/d/19P2hoNv-ijbmnLaPLT7nuYal4dTfBOxR/view?usp=drive_link](https://drive.google.com/file/d/1TQT6xFn4MQ585OA3xybhNG1JGMz_qo-A/view?usp=drive_link
-)
+    * ![Alt Text](Time.png)
 
 * **Product Analysis:**
     * (This section would typically detail insights into best-selling products, lowest-performing items, product category profitability, and inventory turnover, allowing Creatine House to optimize their product offerings and stock levels. If you have a screenshot for this, add it here.)
-   ![Alt Text]([https://drive.google.com/file/d/19P2hoNv-ijbmnLaPLT7nuYal4dTfBOxR/view?usp=drive_link](https://drive.google.com/file/d/1TQT6xFn4MQ585OA3xybhNG1JGMz_qo-A/view?usp=drive_link
-)
+   ![Alt Text](Product.png)
 
 * **Location Analysis:**
     * (This section would typically visualize sales, profit, and customer distribution across different geographic regions or store locations, supporting targeted marketing and expansion strategies. If you have a screenshot for this, add it here.)
-    ![Alt Text]([https://drive.google.com/file/d/19P2hoNv-ijbmnLaPLT7nuYal4dTfBOxR/view?usp=drive_link](https://drive.google.com/file/d/1TQT6xFn4MQ585OA3xybhNG1JGMz_qo-A/view?usp=drive_link
-)
+    ![Alt Text](Location.png)
 
 ## 4. Data Sources
 
@@ -97,19 +94,11 @@ This Sales Performance Dashboard provides Creatine House with an unparalleled vi
 
 ## 8. Live Demo
 
-Explore the interactive dashboard live on NovyPro: **[Link to your NovyPro project page]** *(Replace with your actual NovyPro link)*
-
-## 9. How to Use
-
-To interact with the dashboard:
-1.  Ensure you have **Power BI Desktop** installed on your system.
-2.  Download the `Creatine_House_Sales_Dashboard.pbix` file from this GitHub repository.
-3.  Open the `.pbix` file in Power BI Desktop. The report should load all data as it is embedded within the file, requiring no additional data source connections.
-4.  Navigate through the various pages using the interactive buttons and utilize the slicers (Year, Category, Continent, Region) on the left sidebar to filter data and explore different aspects of the sales performance.
+Explore the interactive dashboard live on NovyPro: **[[Link to your NovyPro project page](https://www.novypro.com/profile_about/mahmoud-mamdouh?Popup=memberProject&Data=1748329372294x310340830017542340)]
 
 ## 10. Contact
 
 Feel free to connect with me for any questions, feedback, or collaborations on this project:
 
-* **[Your LinkedIn Profile Link]**
-* **[Your Email Address]** (Optional)
+* **[https://www.linkedin.com/in/mahmoud-mamdouh-324125220/]**
+* **[mamdouhmahmoud53@gmail.com]** (Optional)
