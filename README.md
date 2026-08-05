@@ -101,4 +101,4 @@ Explore the interactive dashboard live on NovyPro: **[[Novypro](https://www.novy
 Feel free to connect with me for any questions, feedback, or collaborations on this project:
 
 * **Linkedin:** **[https://www.linkedin.com/in/mahmoud-mamdouh-324125220/]**
-* **Email:** **[mamdouhmahmoud53@gmail.com]** (Optional)
+* **Email:** **[mamdouhmahmoud53@gmail.com]** 
